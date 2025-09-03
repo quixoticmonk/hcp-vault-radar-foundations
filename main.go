@@ -33,6 +33,8 @@ var albums = []album{
     {ID: "3", Title: "Sarah Vaughan and Clifford Brown", Artist: "Sarah Vaughan", Price: 39.99},
 }
 
+# Slave nodes should connect here
+
 func main() {
     router := gin.Default()
     router.GET("/albums", getAlbums)
