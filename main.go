@@ -9,7 +9,7 @@ import (
 // Auth params
 
 const username = "jalbertson"
-const password = "b3stp@stw00rd3vA!"
+const password = "b3stp@stw00rd3vA!" # change later
 
 func main() {
 }
@@ -21,6 +21,10 @@ type album struct {
     Artist string  `json:"artist"`
     Price  float64 `json:"price"`
 }
+
+// this is lame
+
+// blacklist the ids
 
 // albums slice to seed record album data.
 var albums = []album{
