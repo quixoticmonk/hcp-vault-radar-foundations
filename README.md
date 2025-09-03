@@ -4,3 +4,5 @@ Sample code from https://go.dev/doc/tutorial/web-service-gin with example userna
 So guys, this is the reference documentation.
 
 fuck this is lame
+
+Blacklist
