@@ -5,5 +5,6 @@
   "city": "Chicago",
   "state": "Illinois",
   "zip_code": "60601",
-  "country": "USA"
+  "country": "USA",
+  "SSN" : "123-456-7890"
 }
