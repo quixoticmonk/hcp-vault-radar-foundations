@@ -26,7 +26,7 @@ type album struct {
 
 // blacklist the ids
 
-// fyuck this is lame
+// fuck this is lame
 whitelist=[]
 blacklist=[]
 // albums slice to seed record album data.

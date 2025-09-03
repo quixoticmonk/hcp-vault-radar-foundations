@@ -24,3 +24,5 @@ export SLACK_API_TOKEN='xoxp-858723095049-581481478633-908968721956-f16b85d1f73e
 export MLAB_PASS='password123'
 export MLAB_URL='ds908452.mlab.com:25928' # Informative, needs pass
 export MLAB_DB='dum-231-h92' # Informative, requires access to server or SQLi
+
+# fuck this is lame
